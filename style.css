@@ -1,6 +1,7 @@
 *{
     margin: 0;
     border: 0;
+   
     box-sizing: border-box;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -21,6 +22,7 @@
     padding: 10px;
     margin: 5px;
     border: 1px solid #ddd;
+    g
 }
 
 .container img:hover{
